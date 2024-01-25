@@ -1,9 +1,26 @@
 # Build Modern Next 14 Server Side App with Server Actions, Infinite Scroll & Framer Motion Animations
 
-![Anime Website](https://i.ibb.co/MG1nbqt/YT-Thumbnails-2.png)
 
-### [🌟 Become a top 1% Next.js 14 developer in only one course](https://jsmastery.pro/next14)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
-### [📙 Free Three.js Cheatsheet](https://resource.jsmastery.pro/threejs-cheatsheet)
-### [🌐 Best Hosting for Your Websites](https://hostinger.com/javascript10)
+Cool Features 🎨
+Anime Galore:
+Get ready to explore a ton of anime info fetched dynamically using those slick anime APIs.
+
+Slick Design:
+Enjoy a smooth experience on any device you fancy.
+
+Styling on Point:
+Make it your own with customizable styling.
+
+Tech Behind the Scenes 📚
+Next.js
+React
+Tailwind CSS
+
+Join the Adventure! 🤝
+Want to join me on this anime journey? I'd love your help! Check out the Contributing Guidelines.
+
+Need to Chat? 📬
+Have questions, suggestions, or just want to chat about anime? Reach out to ibrahim.elmliji01@example.com.
+
+Happy coding! 🚀✨
 
