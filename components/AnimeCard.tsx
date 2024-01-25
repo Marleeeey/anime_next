@@ -1,4 +1,3 @@
-import { easeInOut } from "framer-motion";
 import { MotionDiv } from "./MotionDiv";
 import Image from "next/image";
 
